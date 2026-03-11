@@ -29,4 +29,8 @@ body {
   color: #0056b3;
 }
 
+tr:hover {
+  background-color: lightblue;
+}
+
 /*# sourceMappingURL=index.css.map */
